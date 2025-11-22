@@ -13,3 +13,8 @@ Network configuration for Kali VM
 
 Network Configuration for Win10
 _It is just the same as configuring Kali!_
+
+# Installing Splunk and enabling it to ingest logs from Sysmon
+
+<img width="986" height="720" alt="addingendpointindex" src="https://github.com/user-attachments/assets/f31b0124-6650-4e41-82c4-cbff852e6052" />
+
